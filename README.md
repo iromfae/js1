@@ -1,1 +1,1 @@
-# https://iromfae.github.io/pasport_changes/pasport_changes.html
+# https://iromfae.github.io/js1/pasport_changes.html
